@@ -1,0 +1,11 @@
+asgiref
+Django
+djangorestframework
+dnspython
+mango-jwt
+passlib
+PyJWT
+pymongo
+pytz
+sqlparse
+
